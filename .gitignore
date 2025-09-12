@@ -2,3 +2,4 @@ public/
 /resources/_gen/
 .hugo_build.lock
 package-lock.json
+.DS_Store
