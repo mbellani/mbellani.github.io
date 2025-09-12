@@ -1,5 +1,6 @@
 baseURL = 'https://mbellani.github.io/'
-description = 'hello world'
+title = 'Manish Bellani - Software Engineer'
+
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -16,13 +17,14 @@ author = "authors"
 [pagination]
 pagerSize = 20
 
-
 [params]
 author = "Manish Bellani"
 colorScheme = "dark"
 hidecolorschemetoggle = false
 keywords = "blog,software-engineer,personal"
 commit = "https://github.com/mbellani/mbellani.github.io/tree/"
+customSCSS = ["scss/custom.scss"]
+
 
 [[params.social]]
   name = "Github"
