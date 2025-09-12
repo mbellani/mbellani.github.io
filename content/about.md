@@ -11,6 +11,6 @@ I am currently taking a break from work to focus on health and the well-being of
 
 I really enjoy building with Rust, though I’ve also worked extensively with languages like Go, Java, and Python. I’ll admit—I’m fascinated by all things AI. Although I don’t buy into all the hype, I’ve gradually shifted from being a skeptic to recognizing that AI can greatly enhance productivity if used correctly!
 
-I live in Frisco, TX with my wife, Yukta, and our two kids, Mann and Rish—our very own team of four, complete with chaos, laughter, and the occasional(often?) missing sock. When I’m not working or studying, you’ll usually find me driving Rish to his cricket games or tossing balls in our backyard cricket cage to help him sharpen his batting skills.
+I live in Frisco, TX with my wife, Yukta, and our two kids, Mann and Rish—our very own team of four, complete with chaos, laughter, and the occasional missing sock. When I’m not working or studying, you’ll usually find me driving Rish to his cricket games or tossing balls in our backyard cricket cage to help him sharpen his batting skills.
 
 I also enjoy gardening—at least when it’s not the peak of summer in Texas! On top of that, I’m an avid real estate investor, steadily growing my portfolio over time. Thanks for stopping by!
