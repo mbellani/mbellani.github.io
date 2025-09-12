@@ -37,6 +37,11 @@ commit = "https://github.com/mbellani/mbellani.github.io/tree/"
   url = "https://www.linkedin.com/in/mbellani/"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "Home"
 weight = 1
+url = "/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 2
 url = "about/"
