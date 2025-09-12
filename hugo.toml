@@ -1,0 +1,42 @@
+baseURL = 'https://mbellani.github.io/'
+description = 'hello world'
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+enableEmoji = true
+
+[markup.highlight]
+style = "github-dark"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "authors"
+
+[pagination]
+pagerSize = 20
+
+
+[params]
+author = "Manish Bellani"
+colorScheme = "dark"
+hidecolorschemetoggle = false
+keywords = "blog,software-engineer,personal"
+commit = "https://github.com/mbellani/mbellani.github.io/tree/"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 4
+  url = "https://github.com/mbellani/"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 4
+  url = "https://www.linkedin.com/in/mbellani/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
