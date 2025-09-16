@@ -29,7 +29,7 @@ Software Engineer with over 2 decades of experience designing and building large
 - Interviewed and onboarded new team members, creating culture of transparency and empathy across the team with regular 1:1s with all team members.
 
 
-### Keen IO ·Remote · Feb 2016 – Mar 2018
+### Keen IO · Remote · Feb 2016 – Mar 2018
 **Senior Engineer · Compute and Storage**
 
 - Built and maintained Keen’s query engine and Cassandra storage layer for high availability; developed a caching layer to cut query latency; and designed BigQuery integration pipelines while refactoring core data code to reduce technical debt and improve modularity.
@@ -44,7 +44,7 @@ Software Engineer with over 2 decades of experience designing and building large
 - **Solutions IQ · Consulting · Feb 2012 – Jul 2012.** Enhanced software engineering practices at AT&T by introducing iterative development and optimizing developer workflow with CI/CD.
 - **Southwest Airlines · Lead Engineer · Jun 2008 – Feb 2012.** Led design and development of Rapid Rewards 2.0 integration layer, building enterprise services with Siebel integration and launch-day observability, while contributing to SWA’s next-gen reservation system framework.
 
-### Early Career | 2003 – 2008
+### Early Career · 2003 – 2008
 
 - Held various consulting and full time engineering positions with companies like **American Airlines**, **Sabre Airline Solutions**, **Nokia** and **Computer Associates**.
 
