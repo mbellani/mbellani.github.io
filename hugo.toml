@@ -48,6 +48,12 @@ name = "About"
 weight = 2
 url = "about/"
 
+[[languages.en.menu.main]]
+name = "Resume"
+weight = 3
+url = "resume/"
+
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
