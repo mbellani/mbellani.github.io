@@ -9,9 +9,11 @@ Software Engineer with over 2 decades of experience designing and building large
 ## Experience
 
 ### Career Sabbatical · Remote · Feb 2025 – Present
+- Sabbatical focused on personal and family well-being, while pursuing continued education through Oxford University’s part-time [M.Sc. in Software Engineering](https://www.ox.ac.uk/admissions/graduate/courses/msc-software-engineering).
 
-- Supporting family transitions and traveling to India to reconnect with extended family, while pursuing continued education through Oxford University’s part-time [M.Sc. in Software Engineering](https://www.ox.ac.uk/admissions/graduate/courses/msc-software-engineering).
-- Completed modules: Algorithmics (ALG), Concurrency and Distributed Systems (CDS), Software Engineering Mathematics (SEM), demonstrating ongoing commitment to learning and professional growth.
+- Dedicated this period to advancing my personal interest in deepening knowledge of computer science, completing modules in Algorithmics, Concurrency and Distributed Systems, and Software Engineering Mathematics.
+
+
 
 ### GitHub · Remote · Jul 2018 – Feb 2025
 **Staff Engineer · Code Search** · **Jan 2021 – Feb 2025**
