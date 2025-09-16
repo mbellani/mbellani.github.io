@@ -4,7 +4,7 @@
 
 
 ## Summary
-Software Engineer with over 2 decades of experience designing and building large-scale distributed systems, most recently at GitHub. In recent years, I’ve worked on Blackbird—a high-performance code search engine built from ground up in Rust. Blackbird system hosts the world's largest code index, encompassing 130+ million repositories and serving as the backbone for GitHub Copilot's code understanding and retrieval-augmented generation capabilities, empowering over 100M+ developers globally on a daily basis.
+Software Engineer with over 2 decades of experience designing and building large-scale distributed systems, most recently at GitHub. In recent years, I’ve worked on Blackbird—a high-performance code search engine built from ground up in Rust. Blackbird system hosts the world's largest code index, encompassing 130+ million repositories and serving as the backbone for GitHub Copilot's code understanding and retrieval-augmented generation (RAG) capabilities, empowering over 100M+ developers globally on a daily basis.
 
 ## Experience
 
@@ -18,14 +18,14 @@ Software Engineer with over 2 decades of experience designing and building large
 
 - Early engineer on the Blackbird team where I contributed to several core pieces of novel code search engine that powers GitHub's code search as well as Github Copilot for 100M+ developers globally. Scaled Blackbird from a single-machine prototype to a globally distributed system, running on 450+ machines across multiple geographies, enabling high-throughput, low-latency code search at scale.
 - Led and scaled core search components written in Rust and Go, including query parsers and query services. Implemented query and index-time consistency guarantees to ensure accurate and up-to-date results. Optimized the system for high throughput and low latency, improving overall performance. Enhanced reliability, security, and trust across the platform.
-- Built epoch branching for Blackbird, reducing index replication from days to hours (minutes for semantic code index), enabling rapid creation of new semantic code search clusters that would otherwise have taken months, while ensuring robust recovery from incidents and dramatically boosting team productivity.
+- Built epoch branching for Blackbird, reducing time to build new clusters from days to hours (minutes for semantic code index), enabling rapid creation of new semantic code search clusters that would otherwise have taken months. Epoch branching also provided robust recovery from incidents and dramatically boosting team productivity. This was crucial for launching enhanced Github Copilot experience on time.
 - Designed, built, and maintained key infrastructure—provisioning, observability, deployment, and end-to-end testing—enabling rapid, reliable system changes with confidence.
 - Recognized as the team's connective tissue, fostering empathy and understanding across the group. Conducted one-on-one discussions with team members, playing a critical role in building a high-performing, cohesive team.
 
-**Staff Engineer · Data Platform and Infrastructure** · **July 2018 – Dec 2020**
+**Staff Engineer · Data Infrastructure** · **July 2018 – Dec 2020**
 
 - Scaled GitHub’s analytics data storage from 25TB to 3PB in my first 6–8 months, powering analytics, machine learning and business intelligence workflows.
-- Revamped the data platform, migrating to S3 and Azure, and built an 8B-event/day Flink pipeline with exactly-once guarantees—unlocking scalable machine learning and analytics workflows to drive future growth. Reducing burden of maintaining custom HDFS clusters in house.
+- Revamped the data platform, migrating to S3 and Azure, and built an 8B-event/day data pipeline with exactly-once guarantees—unlocking scalable machine learning and analytics workflows to drive future growth. Reducing burden of maintaining custom HDFS clusters in house.
 - Interviewed and onboarded new team members, creating culture of transparency and empathy across the team with regular 1:1s with all team members.
 
 
