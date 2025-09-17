@@ -18,7 +18,8 @@ Software Engineer with over 2 decades of experience designing and building large
 ### GitHub · Remote · Jul 2018 – Feb 2025
 **Staff Engineer · Code Search** · **Jan 2021 – Feb 2025**
 
-- Early engineer on the Blackbird team where I contributed to several core pieces of novel code search engine that powers GitHub's code search as well as Github Copilot for 100M+ developers globally. Scaled Blackbird from a single-machine prototype to a globally distributed system, running on 450+ machines across multiple geographies, enabling high-throughput, low-latency code search at scale.
+- Early engineer on the Blackbird team where I contributed to several core pieces of novel code search engine that powers GitHub's code search as well as Github Copilot for 100M+ developers globally.
+- Scaled Blackbird from a single-machine prototype to a globally distributed system, running on 450+ machines across multiple geographies, enabling high-throughput, low-latency code search at scale.
 - Led and scaled core search components written in Rust and Go, including query parsers and query services. Implemented query and index-time consistency guarantees to ensure accurate and up-to-date results. Optimized the system for high throughput and low latency, improving overall performance. Enhanced reliability, security, and trust across the platform.
 - Built epoch branching for Blackbird, reducing time to build new clusters from days to hours (minutes for semantic code index), enabling rapid creation of new semantic code search clusters that would otherwise have taken months. Epoch branching also provided robust recovery from incidents and dramatically boosting team productivity. This was crucial for launching enhanced Github Copilot experience on time.
 - Designed, built, and maintained key infrastructure—provisioning, observability, deployment, and end-to-end testing—enabling rapid, reliable system changes with confidence.
